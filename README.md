@@ -1,2 +1,2 @@
 # devopsrepo
-feature newbranch1 details added
+feature branch details added
